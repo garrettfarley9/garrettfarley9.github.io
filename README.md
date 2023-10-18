@@ -22,9 +22,9 @@ NAGVA Volleyball player<br>
 Organic Farmer<br>
 
 <h2>Portfolio Projects</h2>
-<a href="https://github.com/garrettfarley9/Soeul-Bikes-Linear-Regression/tree/main">Soeul Bike Linear Regression Model</a><br>
+<a href="https://github.com/garrettfarley9/Soeul-Bikes-Linear-Regression/blob/main/Seoul_bikes_Linear_regression.ipynb">Soeul Bike Linear Regression Model</a><br>
 This is my final project in my Python for Data Science class. I found a bike rental dataset on Kaggle.com and created a linear regression model after some feature engineering.
-![image](https://github.com/garrettfarley9/garrettfarley9.github.io/assets/30034288/e2c9b444-b4e3-461f-af44-f97d8e9ebd67)
+![image](https://github.com/garrettfarley9/garrettfarley9.github.io/assets/30034288/533d0323-0f81-4643-b71d-4c35b0517927)
 
 <a href ="https://github.com/garrettfarley9/Binary-Classification-ANN/blob/main/Binary_Classification_ANN.ipynb">Mushroom Binary classification with neural network</a><br>
 This project was a final project for my AI class in my graduate certificate program. I used a neural network to do binary classification on mushroom edibility -- Edible or Poisonous.
